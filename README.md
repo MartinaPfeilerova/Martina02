@@ -1,2 +1,2 @@
-# Martina02
-first repository
+# Hello GitHub!
+Hi, I'm Martina. This is my first repository on GitHub. 🎉
